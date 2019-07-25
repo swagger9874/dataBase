@@ -2,7 +2,7 @@
     "users" : [
     {
       "id": 1,
-      "name": "Deniz Akgöl",
+      "name": "Deniz Akgöl Yalçın",
       "salary": "5000",
       "department": "Bilişim",
       "working" : true
