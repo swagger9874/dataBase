@@ -28,4 +28,26 @@
       "department": "Saç Bakımı",
       "loading" : true
     }
+  ],
+    "list": [
+    {
+      "id" : "1",
+      "name" : "belek"
+    },
+    {
+      "id" : "2",
+      "name" : "blek"
+    },
+    {
+      "id" : "3",
+      "name" : "belk"
+    },
+    {
+      "id" : "4",
+      "name" : "beek"
+    },
+    {
+      "id" : "5",
+      "name" : "bele"
+    }
   ]}
