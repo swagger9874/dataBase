@@ -61,12 +61,12 @@
   ],
     "merge" : [
     {
-        "id" : "1",
+        "id" : "8",
         "name" : "Belek",
         "mergedId" : []
     },
     {
-        "id" : "2",
+        "id" : "9",
         "name" : "Antalya",
         "mergedId" : []
     }
