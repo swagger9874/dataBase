@@ -2,28 +2,28 @@
     "users" : [
     {
       "id": 1,
-      "name": "Deniz Akgöl",
+      "name": "User Someone",
       "salary": "5000",
       "department": "Bilişim",
       "loading" : true
     },
     {
       "id": 2,
-      "name": "Cennet Boran",
+      "name": "User Anotherone",
       "salary": "6000",
       "department": "Yazılım Uzmanı",
       "loading" : true
     },
     {
       "id": 3,
-      "name": "Emre Kurnaz",
+      "name": "User Someone Else",
       "salary": "4000",
       "department": "Muhasebe",
       "loading" : true
     },
     {
       "id": 4,
-      "name": "Eren Şengül",
+      "name": "User User",
       "salary": "Sana Yok",
       "department": "Saç Bakımı",
       "loading" : true
